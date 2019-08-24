@@ -1,0 +1,8 @@
+SCHEDULENAME = "Myschedule"
+AUTHTOKEN = "MyPagerdutyToken"
+
+LDAPUSERNAME = "myldapuser"
+LDAPPASSWORD = "mypasswort"
+
+KRONOLITHKALENDERID = "mykalenderid"
+KRONOLITHURL = "mykronolithurl"
