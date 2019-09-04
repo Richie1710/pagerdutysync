@@ -1,0 +1,5 @@
+[[usermapping]]
+pdname = "Pagerdutyusername"
+ldapname = "usernameonldap"
+cuser = "userid"
+
